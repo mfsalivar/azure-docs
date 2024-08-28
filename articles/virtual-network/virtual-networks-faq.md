@@ -280,10 +280,6 @@ Previously, the MAC address was released if you stopped (deallocated) the VM. Bu
 * Delete the network adapter.
 * Change the private IP address that's assigned to the primary IP configuration of the primary network adapter.
 
-### Can I connect to the internet from a VM in a virtual network?
-
-Yes. All VMs and Cloud Services role instances deployed within a virtual network can connect to the internet.
-
 ## Azure services that connect to virtual networks
 
 ### Can I use Web Apps with a virtual network?
